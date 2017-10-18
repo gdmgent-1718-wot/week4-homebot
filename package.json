@@ -1,0 +1,22 @@
+{
+  "name": "week4-homebot",
+  "version": "1.0.0",
+  "description": "HomeBot ==================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdmgent-1718-wot/week4-homebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdmgent-1718-wot/week4-homebot/issues"
+  },
+  "homepage": "https://github.com/gdmgent-1718-wot/week4-homebot#readme",
+  "dependencies": {
+    "node-webhooks": "^1.2.4"
+  }
+}
